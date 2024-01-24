@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranaya Kumar Dash</h1>
 <h3 align="center">A passionate Data Analyst Enthusiast from India</h3>
 
-- 💬 Ask me about **C, Python, SQL, Excel, PowerBI, Data Visualization, Android Developement**
+- 💬 Ask me about **C, Python, SQL, Excel, PowerBI,Machine Learning, Data Visualization, Android Developement**
 
 - 📫 How to reach me **dashpranaya786@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,15 +1,76 @@
-<h1 align="center">Hi 👋, I'm Pranaya Kumar Dash</h1>
-<h3 align="center">A passionate Data Analyst Enthusiast from India</h3>
+# 💫 About Me:
+Hi 👋, I'm **Pranaya Kumar Dash**  
+A passionate **Python Full-Stack Developer** from India 🇮🇳  
 
-- 💬 Ask me about **C, Python, SQL, Excel, PowerBI,Machine Learning, Data Visualization, Android Developement**
+🔭 I’m currently working on [DriveInStyle – Car Rental Web Application](https://github.com/PranayaKD/DriveInStyle)  
+👯 I’m looking to collaborate on [Shopper Mart – Full-Stack E-Commerce Platform](https://github.com/PranayaKD/ShopperMart)  
+🤝 I’m looking for help with [Task Master – Task Management App](https://github.com/PranayaKD/TaskMaster)  
+🌱 I’m currently learning **FastAPI**, **React.js**, and **Cloud Deployment (AWS)**  
+💬 Ask me about **Django**, **REST API**, **Bootstrap**, **Database Optimization**, and **Full Stack Development**  
+📫 How to reach me: **dashpranaya28@gmail.com**  
+👨‍💻 All of my projects are available at [Portfolio](https://pranayakd.github.io/Portfolio/)  
+📄 Know about my experiences from my [Resume](https://github.com/PranayaKD/PranayaDash_PythonDeveloper_Resume.pdf)  
+⚡ Fun fact: *I think I am funny 😄*  
 
-- 📫 How to reach me **dashpranaya786@gmail.com**
+---
 
+## 🛠️ Skills
 
+### 💻 Programming Languages  
+`Python` • `JavaScript` • `MySQL` • `HTML5` • `CSS3`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🌐 Frontend Development  
+`Bootstrap` • `Tailwind` • `HTML5` • `CSS3` • `JavaScript`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🖥️ Backend Development  
+`Django` • `Django REST Framework` • `FastAPI` *(learning)*
+
+### 🗄️ Databases  
+`PostgreSQL` • `MySQL`
+
+### ☁️ DevOps & Tools  
+`Git` • `GitHub` • `Docker (basic)` • `AWS (beginner)` • `VS Code` • `Postman`
+
+### 🧠 Concepts  
+`RESTful APIs` • `MVT Architecture` • `ORM` • `Authentication` • `Deployment`
+
+---
+
+## 🌟 Projects
+
+- 🛒 **[Shopper Mart](https://github.com/PranayaKD/ShopperMart)** — Full-stack e-commerce platform with authentication, CRUD, and admin dashboard.  
+- ✅ **[Task Master](https://github.com/PranayaKD/TaskMaster)** — Task management web app with role-based access and efficient ORM queries.  
+- 🚗 **[DriveInStyle](https://github.com/PranayaKD/DriveInStyle)** — Car rental system with dynamic filtering, async views, and optimized queries.
+
+---
+
+## 🧩 Internship
+**Machine Learning Intern** — *Prodigy Infotech Pvt. Ltd.* (Apr–Sept 2024)  
+Developed a real-time sentiment analysis model achieving **89% accuracy** using Logistic Regression & Naïve Bayes.
+
+---
+
+## 🏆 Certifications
+- SQL for Data Science — *Coursera*  
+- Python Full Stack Developer Internship — *PySpiders*  
+- Prompt Engineering for Data Analysis — *Udemy*  
+- AWS Certified Cloud Practitioner — *AWS Academy*  
+
+---
+
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-PranayaKD-181717?logo=github)](https://github.com/PranayaKD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranayakd28-0A66C2?logo=linkedin)](https://linkedin.com/in/pranayakd28)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://pranayakd.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-dashpranaya28%40gmail.com-red?logo=gmail)](mailto:dashpranaya28@gmail.com)
+
+---
+
+## 💖 Support Me
+
+<a href="https://www.buymeacoffee.com/pranayakd"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=pranayakd&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+
+---
+
+⭐ **Star this repo** if you like my profile!  

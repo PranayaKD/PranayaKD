@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- 3D Header Dynamic Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=220&section=header&text=Pranaya%20Kumar%20Dash&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Python%20Full-Stack%20and%20Backend%20Engineer%20%7C%20Django%20%E2%80%A2%20DRF%20%E2%80%A2%20FastAPI%20%E2%80%A2%20PostgreSQL&descSize=17&descAlignY=70&descAlign=50" width="100%" alt="Pranaya Kumar Dash Header Banner"/>
+# Hey 👨‍💻 I'm Pranaya Kumar Dash
+
+<img src="assets/developer-workspace.gif" width="100%" alt="Pranaya Kumar Dash - Developer Workspace" />
+
+<br/><br/>
 
 <!-- Animated Typing Subtitle -->
 <a href="https://pranayakd.in/">
@@ -27,20 +30,6 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 - 🛒 **Core Commerce**: **[ShopperMart](https://github.com/PranayaKD/ShopperMart)** — Full-featured e-commerce system with UUID-backed entity security, guest-to-user cart migration, and Razorpay integration.
 - ⚡ **Backend Mastery**: Python, Django, Django REST Framework (DRF), FastAPI, PostgreSQL, MySQL.
 - 💬 **Ask me about**: Concurrency & transactions, ORM optimization, REST API design, authentication state machines, and payment webhooks.
-
----
-
-### 🏙️ GitHub Contribution City — 3D Activity Skyline
-
-<div align="center">
-
-<a href="https://www.gitskins.com/readme-builder?username=PranayaKD&template=contribution-city">
-  <img src="https://www.gitskins.com/api/section/city?username=PranayaKD&theme=tokyonight" alt="Pranaya's 3D Contribution City Skyline" width="100%"/>
-</a>
-
-<sub>Every building represents an active day of development; building height scales with commit volume.</sub>
-
-</div>
 
 ---
 

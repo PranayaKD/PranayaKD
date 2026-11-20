@@ -3,6 +3,13 @@
 <!-- 3D Header Dynamic Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=220&section=header&text=Pranaya%20Kumar%20Dash&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Python%20Full-Stack%20and%20Backend%20Engineer%20%7C%20Django%20%E2%80%A2%20DRF%20%E2%80%A2%20FastAPI%20%E2%80%A2%20PostgreSQL&descSize=17&descAlignY=70&descAlign=50" width="100%" alt="Pranaya Kumar Dash Header Banner"/>
 
+<!-- Animated Typing Subtitle -->
+<a href="https://pranayakd.in/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D9541E&center=true&vCenter=true&width=650&height=45&lines=Python+Full-Stack+%26+Backend+Engineer;Django+%E2%80%A2+DRF+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Architecting+ACID+Systems+%26+Production+REST+APIs;Eliminating+Concurrency+Issues+%26+N%2B1+Queries" alt="Typing Headline" />
+</a>
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranayakd.in-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranayakd.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranayakd28-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranayakd28)
 [![GitHub](https://img.shields.io/badge/GitHub-PranayaKD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranayaKD)
@@ -23,14 +30,15 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 
 ---
 
-### 🏆 GitHub Contribution City & Achievements
+### 🏙️ GitHub Contribution City — 3D Activity Skyline
 
 <div align="center">
 
-<!-- 3D Stat Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranayaKD&theme=dracula&no-bg=true&column=6&margin-w=10" alt="Pranaya's Trophies" width="95%"/>
+<a href="https://www.gitskins.com/readme-builder?username=PranayaKD&template=contribution-city">
+  <img src="https://www.gitskins.com/api/section/city?username=PranayaKD&theme=tokyonight" alt="Pranaya's 3D Contribution City Skyline" width="100%"/>
 </a>
+
+<sub>Every building represents an active day of development; building height scales with commit volume.</sub>
 
 </div>
 
@@ -136,5 +144,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 <br/>
 
 <a href="https://github.com/PranayaKD"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,11,1&height=100&section=footer" width="100%"/></a>
+
+<p align="center"><sub>Developed by <a href="https://pranayakd.in/">PranayaKD</a> • © 2026 Pranaya Kumar Dash. All rights reserved.</sub></p>
 
 </div>

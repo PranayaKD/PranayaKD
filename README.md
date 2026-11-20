@@ -3,7 +3,7 @@
 <!-- 3D Header Dynamic Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=220&section=header&text=Pranaya%20Kumar%20Dash&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Python%20Full-Stack%20and%20Backend%20Engineer%20%7C%20Django%20%E2%80%A2%20DRF%20%E2%80%A2%20FastAPI%20%E2%80%A2%20PostgreSQL&descSize=17&descAlignY=70&descAlign=50" width="100%" alt="Pranaya Kumar Dash Header Banner"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranayakd.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranayakd.in-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranayakd.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranayakd28-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranayakd28)
 [![GitHub](https://img.shields.io/badge/GitHub-PranayaKD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranayaKD)
 [![Email](https://img.shields.io/badge/Email-dashpranaya786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpranaya786@gmail.com)
@@ -131,7 +131,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranayakd28)
 [![Email](https://img.shields.io/badge/Email-dashpranaya786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpranaya786@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-Visit-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranayakd.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-pranayakd.in-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranayakd.in/)
 
 <br/>
 

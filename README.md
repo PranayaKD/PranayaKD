@@ -6,9 +6,9 @@
 
 <br/><br/>
 
-<!-- Animated Typing Subtitle -->
+<!-- Modern Cyber/Tech Typing Subtitle in JetBrains Mono -->
 <a href="https://pranayakd.in/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D9541E&center=true&vCenter=true&width=650&height=45&lines=Python+Full-Stack+%26+Backend+Engineer;Django+%E2%80%A2+DRF+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Architecting+ACID+Systems+%26+Production+REST+APIs;Eliminating+Concurrency+Issues+%26+N%2B1+Queries" alt="Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=D9541E&center=true&vCenter=true&width=680&height=45&lines=Python+Full-Stack+%26+Backend+Engineer;Django+%E2%80%A2+DRF+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Architecting+ACID+Systems+%26+Production+REST+APIs;Eliminating+Concurrency+Bottlenecks+%26+N%2B1+Queries" alt="Typing Headline" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### ✦ 01 // ABOUT ME
 
 I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-throughput web systems, production-grade REST APIs, and database-intensive applications. My focus centers on clean architecture, eliminating concurrency issues, database query optimization (indexing & N+1 elimination), and shipping reliable products.
 
@@ -33,7 +33,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 
 ---
 
-### 🛠️ Core Technologies & Skills
+### ✦ 02 // TECH STACK & SYSTEM ARCHITECTURE
 
 <div align="center">
 
@@ -49,7 +49,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 
 ---
 
-### 🚀 Featured Production Projects
+### ✦ 03 // FEATURED PRODUCTION PLATFORMS
 
 <table>
   <tr>
@@ -96,7 +96,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### ✦ 04 // REAL-TIME METRICS & ACTIVITY
 
 <div align="center">
 
@@ -113,7 +113,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 
 ---
 
-### 💼 Experience & Credentials
+### ✦ 05 // CREDENTIALS & INDUSTRY ACCREDITATIONS
 
 - 💼 **Machine Learning Intern** — Prodigy Infotech *(Text classification with 89% accuracy)*
 - 🏅 **AWS Certified Cloud Practitioner** — AWS Academy
@@ -124,7 +124,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 
 <div align="center">
 
-### 📬 Connect With Me
+### ✦ 06 // CONNECT & COLLABORATE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranayakd28)
 [![Email](https://img.shields.io/badge/Email-dashpranaya786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpranaya786@gmail.com)

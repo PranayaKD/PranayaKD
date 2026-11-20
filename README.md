@@ -102,7 +102,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 
 <img src="https://github-readme-stats.vercel.app/api?username=PranayaKD&show_icons=true&theme=tokyonight&hide_border=true&title_color=D9541E&icon_color=D9541E&text_bold=true" height="165" alt="Pranaya's GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayaKD&layout=compact&theme=tokyonight&hide_border=true&title_color=D9541E" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayaKD&layout=compact&theme=tokyonight&hide_border=true&title_color=D9541E&hide=jupyter%20notebook,html" height="165" alt="Top Languages"/>
 
 <br/><br/>
 

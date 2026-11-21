@@ -16,7 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranayakd.in-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranayakd.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranayakd28-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranayakd28)
 [![GitHub](https://img.shields.io/badge/GitHub-PranayaKD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranayaKD)
-[![Email](https://img.shields.io/badge/Email-dashpranaya786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpranaya786@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dashpranaya28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpranaya28@gmail.com)
 
 </div>
 
@@ -127,7 +127,7 @@ I am a **Python Full-Stack & Backend Engineer** who architects resilient, high-t
 ### ✦ 06 // CONNECT & COLLABORATE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranayakd28)
-[![Email](https://img.shields.io/badge/Email-dashpranaya786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpranaya786@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dashpranaya28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpranaya28@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Personal_Portfolio-pranayakd.in-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranayakd.in/)
 
 <br/>
